@@ -47,3 +47,5 @@ Identify and source additional artifacts to illustrate your video such as photog
 
 
 ## Helpful resources    
+
+Traditionally, you needed tools such as Camtasia or Adobe Collaborate. University Libraries may also have access to Echo360. But there are now many other free tools, but please check the licensing and other restrictions.
