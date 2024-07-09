@@ -45,5 +45,17 @@ Identify and source additional artifacts to illustrate your video such as photog
 
 ## Adept (coming soon)
 
+### Editing tips
+
+>When recording your voice and actions, *pauses are your friend*.  
+Before you start, record at least 10 seconds of silence with **no** motion on the screen. This will allow you to remove the background noise using Audacity, which first builds a noise profile using a sample of 'silence'.
+
+>>Between each segment, start with a short pause of silence and no onscreen action. 
+>> - If you make a mistake, reset with silence and no action again, so that the edit will be smoother and more jarring. 
+>>>> - To make things easier, you can also ***clap*** in the middle of a pause, which will produce a large spike in the audio track and help you identify the edit points.
+
+
+
+
 
 ## Helpful resources    
